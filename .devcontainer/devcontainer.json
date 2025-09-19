@@ -1,0 +1,21 @@
+{
+  "name": "cpp-oop-labs-mai",
+  "build": { "dockerfile": "Dockerfile" },
+  "settings": {
+    "cmake.generator": "Ninja",
+    "cmake.buildDirectory": "build"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "twxs.cmake"
+      ]
+    }
+  },
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
+  ],
+  "postCreateCommand": "cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Debug && cmake --build build && ctest --test-dir build --output-on-failure"
+}
