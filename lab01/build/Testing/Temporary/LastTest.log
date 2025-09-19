@@ -1,0 +1,165 @@
+Start testing: Sep 19 21:09 UTC
+----------------------------------------------------------
+1/6 Testing: Vowels.Empty
+1/6 Test: Vowels.Empty
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.Empty" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.Empty" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.Empty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.Empty
+[       OK ] Vowels.Empty (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.Empty" end time: Sep 19 21:09 UTC
+"Vowels.Empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: Vowels.SpacesOnly
+2/6 Test: Vowels.SpacesOnly
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.SpacesOnly" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.SpacesOnly" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.SpacesOnly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.SpacesOnly
+[       OK ] Vowels.SpacesOnly (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.SpacesOnly" end time: Sep 19 21:09 UTC
+"Vowels.SpacesOnly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: Vowels.ConsonantsOnly
+3/6 Test: Vowels.ConsonantsOnly
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.ConsonantsOnly" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.ConsonantsOnly" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.ConsonantsOnly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.ConsonantsOnly
+[       OK ] Vowels.ConsonantsOnly (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.ConsonantsOnly" end time: Sep 19 21:09 UTC
+"Vowels.ConsonantsOnly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: Vowels.AllVowels
+4/6 Test: Vowels.AllVowels
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.AllVowels" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.AllVowels" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.AllVowels
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.AllVowels
+[       OK ] Vowels.AllVowels (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.AllVowels" end time: Sep 19 21:09 UTC
+"Vowels.AllVowels" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: Vowels.Phrase
+5/6 Test: Vowels.Phrase
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.Phrase" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.Phrase" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.Phrase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.Phrase
+[       OK ] Vowels.Phrase (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.Phrase" end time: Sep 19 21:09 UTC
+"Vowels.Phrase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: Vowels.YIsVowel
+6/6 Test: Vowels.YIsVowel
+Command: "/workspaces/cpp-oop-labs-mai/lab01/build/tests01" "--gtest_filter=Vowels.YIsVowel" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/cpp-oop-labs-mai/lab01/build
+"Vowels.YIsVowel" start time: Sep 19 21:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/cpp-oop-labs-mai/lab01/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Vowels.YIsVowel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vowels
+[ RUN      ] Vowels.YIsVowel
+[       OK ] Vowels.YIsVowel (0 ms)
+[----------] 1 test from Vowels (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Vowels.YIsVowel" end time: Sep 19 21:09 UTC
+"Vowels.YIsVowel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 21:09 UTC

@@ -1,0 +1,7 @@
+Vowels.Empty 1 0.00612108
+Vowels.SpacesOnly 1 0.0071512
+Vowels.ConsonantsOnly 1 0.00717179
+Vowels.AllVowels 1 0.00756542
+Vowels.Phrase 1 0.00689399
+Vowels.YIsVowel 1 0.0077983
+---

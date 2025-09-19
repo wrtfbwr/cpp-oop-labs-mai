@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/cpp-oop-labs-mai/lab01/build/tests01[1]_tests.cmake")
+  include("/workspaces/cpp-oop-labs-mai/lab01/build/tests01[1]_tests.cmake")
+else()
+  add_test(tests01_NOT_BUILT tests01_NOT_BUILT)
+endif()

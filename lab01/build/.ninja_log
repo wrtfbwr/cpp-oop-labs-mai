@@ -1,0 +1,17 @@
+# ninja log v5
+54	379	1758316129019943900	CMakeFiles/vowels.dir/src/vowels.cpp.o	7e3836079ff42354
+55	470	1758316129112273800	CMakeFiles/main.dir/main.cpp.o	e7b952a1e9c417c6
+413	482	1758316129113272300	libvowels.a	e0d84939f5b1d126
+483	586	1758316129229783200	main	4d17f94590b546cc
+70	1963	1758316130600106000	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5acc4167b77dd28e
+57	2037	1758316130676637100	CMakeFiles/tests01.dir/tests/tests01.cpp.o	6aa5777553db05ec
+63	3539	1758316132177524500	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	11014cbdcaac5cb
+59	3759	1758316132396788200	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b356678a8150e0bf
+66	4953	1758316133588457500	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	28ffb7af4c4b35e6
+4964	5406	1758316134052138000	lib/libgtest.a	e21429778cf18d0f
+5407	5453	1758316134099157900	lib/libgtest_main.a	30ececf4ed42069a
+5407	5616	1758316134261826700	lib/libgmock.a	aed9b9110c6e7301
+5617	5663	1758316134309397500	lib/libgmock_main.a	685aef476c43eaae
+5454	6174	1758316134820564400	tests01	9dc8c9290d444bc1
+5454	6174	1758316134820564400	tests01[1]_tests.cmake	9dc8c9290d444bc1
+5454	6174	1758316134820564400	/workspaces/cpp-oop-labs-mai/lab01/build/tests01[1]_tests.cmake	9dc8c9290d444bc1
