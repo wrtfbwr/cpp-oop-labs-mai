@@ -1,0 +1,7 @@
+# ninja log v5
+20	391	1758819595772289500	CMakeFiles/vowel_counter_tests.dir/src/vowel_counter.cpp.o	aecad003c8112d9d
+15	420	1758819595798907500	CMakeFiles/vowel_counter.dir/main.cpp.o	870a56f55d848562
+16	433	1758819595772289500	CMakeFiles/vowel_counter.dir/src/vowel_counter.cpp.o	32a7dbfae6d0494f
+437	546	1758819595931065100	vowel_counter	4cd2cb569f8fcc15
+18	1033	1758819596415051700	CMakeFiles/vowel_counter_tests.dir/test/tests01.cpp.o	958e30d7266c53bc
+1054	1371	1758819596754851900	vowel_counter_tests	8d1365f28198bb50

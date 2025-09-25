@@ -1,0 +1,5 @@
+/workspaces/test/lab01/build/CMakeFiles/vowel_counter.dir
+/workspaces/test/lab01/build/CMakeFiles/vowel_counter_tests.dir
+/workspaces/test/lab01/build/CMakeFiles/test.dir
+/workspaces/test/lab01/build/CMakeFiles/edit_cache.dir
+/workspaces/test/lab01/build/CMakeFiles/rebuild_cache.dir

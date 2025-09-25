@@ -1,0 +1,37 @@
+Start testing: Sep 25 17:00 UTC
+----------------------------------------------------------
+1/1 Testing: VowelCounterTests
+1/1 Test: VowelCounterTests
+Command: "/workspaces/test/lab01/build/vowel_counter_tests"
+Directory: /workspaces/test/lab01/build
+"VowelCounterTests" start time: Sep 25 17:00 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from VowelCounterTest
+[ RUN      ] VowelCounterTest.EmptyString
+[       OK ] VowelCounterTest.EmptyString (0 ms)
+[ RUN      ] VowelCounterTest.NoVowels
+[       OK ] VowelCounterTest.NoVowels (0 ms)
+[ RUN      ] VowelCounterTest.AllVowels
+[       OK ] VowelCounterTest.AllVowels (0 ms)
+[ RUN      ] VowelCounterTest.WithSpaces
+[       OK ] VowelCounterTest.WithSpaces (0 ms)
+[ RUN      ] VowelCounterTest.Mixed
+[       OK ] VowelCounterTest.Mixed (0 ms)
+[----------] 5 tests from VowelCounterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VowelCounterTests" end time: Sep 25 17:00 UTC
+"VowelCounterTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 25 17:00 UTC
